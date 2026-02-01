@@ -26,7 +26,7 @@ This project uses a robust, scalable stack designed to handle data from thousand
 - `notebooks/`: Exploratory Data Analysis (EDA) and research.
 
 ## 🚦 Getting Started
-1. **Clone the repository**:
+1. **Repository**:
    ```bash
    git clone https://github.com/YOUR_ORG/Agro-IoT-Yield-Optimization.git
    ```
